@@ -1,0 +1,238 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<script src="https://kit.fontawesome.com/e77fcc4fb5.js" crossorigin="anonymous"></script>
+
+
+<a id="HOME"></a> </br>
+
+<header>
+<div class="wrap">
+</br>
+</br>
+</br>
+</br>
+
+<center>
+<img src="Images/Lab_Logo_Trans.png" alt="drawing" height="350"/>
+</br>
+</br>
+The Quantitative Ecology Lab is focused on protecting vulnerable species both locally and around the world. We use data driven approaches and cutting-edge statistics </br>
+to ensure that the evidence used to support evidence based conservation is both accurate and reliable.
+</br>
+</br>
+</br>
+</center>
+
+</div>
+</header>
+
+
+</br>
+</br>
+
+</br>
+
+
+<a id="PEOPLE"></a> </br>
+
+<center> <h2>PEOPLE</h2> </center>
+
+<center> <h3>QUANTITATIVE ECOLOGY LAB HEAD</h3> </center>
+
+<center>
+<img src="Images/MikeN.png" alt="drawing" height="200"/>
+
+
+Dr. Michael Noonan |
+<a href="mailto:michael.noonan@ubc.ca"><i class="fas fa-envelope"></i></a> 
+<a href="https://twitter.com/MikeNoonanUBC"><i class="fab fa-twitter"></i></a> 
+<a href="https://scholar.google.com/citations?user=O5Wu4jMAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i></a> 
+<a href="Files/Noonan_CV.pdf" target="_blank"><i class="fas fa-file-alt"></i></a>
+
+Assistant Professor, Department of Biology
+
+</center>
+
+</br>
+
+<center> <h3>GRADUATE STUDENTS</h3> </center>
+
+</br>
+
+We're currently in the process of building a new lab at the University of British Columbia Okanagan. If you're interested in joining the Quantitative Ecology Lab, you are welcome to email us your CV, unofficial transcripts, a brief blurb about yourself and your interests, and what aspects of the lab's research interest you
+
+</br>
+
+<a id="RESEARCH"></a> </br>
+
+<img src="Images/Release.png" alt="drawing" />
+
+<center> <h2>RESEARCH</h2> </center>
+</br>
+
+For evidence based conservation to succeed, the evidence must be accurate and reliable. UBC Okanagan's Quantitative Ecology Lab is focused on supporting the statistically efficient integration of data into ecological theory and conservation initiatives. To this end, the lab's work follows a step-wise process of methods development, testing, refinement, and application structured around two separate, but complimentary lines of research. The first falls under an umbrella called 'Biology or bias', and is aimed at understanding when/why different statistical approaches lead to differing conclusions, and how to avoid estimation bias. The second focuses on macro-ecology and global conservation by pairing high quality data with cutting edge analytical tools.
+
+## Biology or Bias
+
+Technological advances are transforming ecology as a field. Ecologists are now in a position to collect more accurate data for a larger number of species and individuals, and in more ecosystems than ever before. Problematically, however, statistical techniques for analysing these new and challenging datasets often lag behind. Worse, pairing these data with conventional statistical tools can lead to biased and potentially misleading results. With these issues in mind, the Quantitative Ecology Lab aims to bridge the gap between technological advances and practical ecology. Using carefully tailored experiments, we aim to clarify when analyses will work, when they should be avoided, what conditions cause them to fail, and to what extent that failure might be. This work provides researchers with the novel tools and practical guidelines needed to reliably answer ecological and conservation relevant questions from challenging and nuanced datasets.
+</br>
+</br>
+
+<img src="Images/Banner.png" alt="drawing" />
+</br>
+</br>
+
+## Macro-ecology and Global Conservation
+
+The Qunatitative Ecology lab has established an international team, comprised of >80 of the world’s leading movement ecologists. Through this network of specialists, we have built one of the largest animal tracking dataset ever assembled, consisting of 1300 individuals representing 76 mammalian and avian species. With the average, all-in cost of tracking an animal being [∼$9,500](https://doi.org/10.1071/WR10211), this dataset can be valued at >$11 million. Collectively this unprecedented dataset, and broad pool of expert knowledge make our team uniquely positioned to support global conservation efforts. Our lab uses these data to answer questions about the evolutionary history and function of key aspects of animal movement. We then use these higher level findings to conextualise species' responses to human induced rapid environmental change (HIREC), and provide actionable findings for species conservation.
+</br>
+</br>
+
+<center>
+<img src="Images/Collaboration_Map_Full.png" alt="drawing" height="350"/>
+</center>
+
+
+<a id="PUBLICATIONS"></a> </br>
+
+<img src="Images/heatmap.png" alt="drawing" height="100" width="2000" />
+
+<center> <h2>PUBLICATIONS</h2> </center>
+</br>
+
+<a href="#CONTACT">Contact</a> the lab if you would like PDFs of any of the publications listed on this page.
+
+</br>
+
+#### 2021
+
+
+* __Noonan MJ__...(11 other authors)..., & Calabrese JM. Estimating encounter location distributions from animal tracking data. Methods in Ecology and Evolution, Accepted. DOI: https://doi.org/10.1101/2020.08.24.261628.
+
+* Calabrese JM, Fleming CH, __Noonan MJ__, & Dong X. Point-and-click AKDE home range estimation with ctmmweb Wildlife Society Bulletin, in press DOI: https://doi.org/10.1002/wsb.1154.
+
+#### 2020 {.tabset}
+
+* Ferraz MAMM, Nagashima JB, __Noonan MJ__, Crosier AE, & Songsasen N. Oviductal extracellular vesicles improve red wolf and cheetah sperm function post-thawing. International Journal of Molecular Science, 21(10), 3733; DOI: https://doi.org/10.3390/ijms21103733.
+
+* Ferraz MAMM, Fujihara M, Nagashima JB, __Noonan MJ__, Inoue-Murayama M & Songsasen N. (2020) Cat follicular extracellular vesicles contain proteins regulating cell signaling pathways that enhance meiotic resumption of vitrified oocytes. Scientific Reports, 10, 8619; DOI: https://doi.org/10.1038/s41598-020-65497-w.
+
+* __Noonan MJ__, Fleming CH, ...(76 other authors)..., and Calabrese JM. (2020) Effects of body size on estimation of mammalian area requirements. Conservation Biology, 34(3), 1017 – 1028; DOI: https://doi.org/10.1111/cobi.13495.
+
+##### 2019
+
+
+* __Noonan MJ__, Fleming CH, Akre T, Dresher-Lehman J, Gurarie E, Harrison AL, Kays R & Calabrese JM. (2019) Scale-insensitive estimation of speed and distance travelled from animal tracking data. Movement Ecology, 7(35), 1 – 15; DOI: https://doi.org/10.1186/s40462-019-0177-1.
+
+* __Noonan MJ__, Tinnesand HV, Müller CT, Rosell F, Macdonald DW, & Buesching CD. (2019) Knowing me, knowing you: anal gland secretion of European badgers (_Meles meles_) codes for individuality, sex and social group membership. Journal of Chemical Ecology, 45, 823 – 837; DOI: https://doi.org/10.1007/s10886-019-01113-0.
+
+* Fleming CH, __Noonan MJ_, Medici E, & Calabrese, JM. Overcoming the challenge of small effective sample sizes in home-range estimation. (2019) Methods in Ecology and Evolution, 10(10), 1679 – 1689; DOI: https://doi.org/10.1111/2041-210X.13270.
+
+* Ishii H, Yamazaki K, __Noonan MJ__, Buesching CD, Newman C, & Kaneko Y. (2019) Testing cellular-phone enhanced GPS tracking technology for urban carnivores. Animal Biotelemetry, 7(19), 1–13; DOI: https://doi.org/10.1186/s40317-019-0180-8.
+
+* Ferraz MAMM, Carothers A, Dahal R, __Noonan MJ__, & Songsasen N. (2019) Oviductal extracellular vesicles interact with the spermatozoon's head and mid-piece and improves its motility and fertilizing ability in the domestic cat. Scientific Reports, 9(9484), 1–12; DOI: https://doi.org/10.1038/s41598-019-45857-x.
+
+* Tucker M, ... __Noonan MJ__ (with 62 other authors)..., & Mueller T. (2019) Large birds travel farther in homogeneous environments. Global Ecology and Biogeography, 28(5), 1–12; DOI: https://doi.org/10.1111/geb.12875.
+
+* __Noonan MJ__, ...(53 other authors)..., & Calabrese JM. (2019). A comprehensive analysis of autocorrelation and bias in home range estimation. Ecological Monographs, 89(2):e01344; DOI: https://doi.org/10.1002/ecm.1344.
+
+##### 2018
+
+
+* __Noonan MJ__, Newman C, Markham A, Buesching CD, Bilham K, & Macdonald DW. (2018) _In situ_ behavioral plasticity as compensation for weather variability: implications for future climate change. Climatic Change, 149(3-4), 457–471; DOI: https://doi.org/10.1007/s10584-018-2248-5.
+
+* Winner K, __Noonan MJ__, Fleming CH, Olson KA, Mueller T, Sheldon D, & Calabrese JM. (2018) Statistical inference for home range overlap. Methods in Ecology and Evolution, 9(7), 1679–1691; DOI: https://doi.org/10.1111/2041-210X.13027.
+
+* __Noonan MJ__, Tinnesand HV, & Buesching CD. (2018) Normalizing Gas-Chromatography–Mass Spectrometry Data: Method Choice can Alter Biological Inference. BioEssays, 40(6), 1–12; DOI: https://doi.org/10.1002/bies.201700210.
+
+* Bilham K, Newman C, Buesching CD, __Noonan MJ__, Boyd AC, Smith AL, & Macdonald DW. (2018) The effects of weather conditions on oxidative stress, oxidative damage and antioxidant capacity in a wild-living mammal, the European badger (_Meles meles_). Physiological and Biochemical Zoology, 91(4), 987–1004; DOI: https://doi.org/10.1086/698609.
+
+* Fleming CH, Sheldon D, Fagan WF, Leimgruber P, Mueller T, Nandintsetseg D, __Noonan MJ__, Olson KA, Setyawan E, Sianipar A, & Calabrese JM. (2018) Correcting for missing and irregular data in home-range estimation, Ecological Applications, 28(4), 1003–1010; DOI: https://doi.org/10.1002/eap.1704.
+
+##### 2017
+
+* Johnson PJ, __Noonan MJ__, Kitchener A, Harrington LA, Newman C, & Macdonald DW. (2017) Rensching Cats and Dogs: Feeding ecology and fecundity trends explain variation in the allometry of sexual size dimorphism. Royal Society Open Science, 4(6): 170453; DOI: https://doi.org/10.1098/rsos.170453.
+
+##### 2016
+
+* __Noonan MJ__, Johnson PJ, Kitchener A, Harrington LA, Newman C, & Macdonald DW. (2016) Sexual size dimorphism in musteloids: An anomalous allometric pattern is explained by feeding ecology. Ecology and Evolution, 6(23): 8495–8501; DOI: https://doi.org/10.1002/ece3.2480.
+
+##### 2015
+
+* Tinnesand HV, Buesching CD, __Noonan MJ__, Newman C, Zedrosser A, Rosell F, & Macdonald DW. (2015) Will Trespassers Be Prosecuted or Assessed According to Their Merits? A Consilient Interpretation of Territoriality in a Group-Living Carnivore, the European Badger (_Meles meles_). PLoS One, 10(7), e0132432; DOI: https://doi.org/10.1371/journal.pone.0132432.
+
+* __Noonan MJ__, Newman C, Buesching CD, & Macdonald DW. (2015) Evolution and function of fossoriality in the Carnivora: implications for group-living. Frontiers in Ecology and Evolution, 3(116), 1–14; DOI: https://doi.org/10.3389/fevo.2015.00116.
+
+* __Noonan MJ__, Abidur Rahman M, Newman C, Buesching CD, & Macdonald DW. (2015) Avoiding verisimilitude when modelling ecological responses to climate change: The influence of weather conditions on trapping efficiency in European badgers (_Meles meles_). Global Change Biology, 21(20), 3575–3585; DOI: https://doi.org/10.1111/gcb.12942.
+
+* __Noonan MJ__, Markham A, Newman C, Trigoni N, Buesching CD, Ellwood SA, & Macdonald DW. (2015) A new Magneto-Inductive tracking technique to uncover subterranean activity: What do animals do underground? Methods in Ecology and Evolution, 6(5), 510–520; DOI: https://doi.org/10.1111/2041-210X.12348.
+
+##### 2014
+
+* __Noonan MJ__, Markham A, Newman C, Trigoni N, Buesching CD, Ellwood SA, & Macdonald DW. (2014) Climate and the Individual: Inter-Annual Variation in the Autumnal Activity of the European Badger (_Meles meles_). PloS One, 9(1), e83156; DOI: https://doi.org/10.1371/journal.pone.0083156.
+
+##### 2012
+
+* __Noonan MJ__, Grant JWA, & Jackson CD. (2012) A quantitative assessment of fish passage efficiency. Fish and Fisheries, 13(4), 450–464; DOI: https://doi.org/10.1111/j.1467-2979.2011.00445.x.
+
+## {-}
+
+
+<a id="NEWS"></a> </br>
+<center>
+<img src="Images/Road.png" alt="drawing"  width="100%" />
+</center>
+
+<center> <h2>NEWS</h2> </center>
+</br>
+
+#### 2021
+
+No News.
+
+
+<a id="FUNDING"></a> </br>
+
+<img src="Images/Trees.png" alt="drawing" width="100%" />
+
+<center> <h2>FUNDING</h2> </center>
+</br>
+
+| ![](Images/UBC.png) | ![](Images/SCBI.png) | ![](Images/NSERC.png) |
+|---|---|---|
+
+
+</br>
+
+
+
+<a id="OPPORTUNITIES"></a> </br>
+
+<img src="Images/okanagan_campus.jpg" alt="drawing" width="100%" />
+
+<center> <h2>OPPORTUNITIES</h2> </center>
+
+If you're interested in joining the Quantitative Ecology Lab, you are welcome to email us your CV, unnofficial transcripts, a brief blurb about yourself and your interests, and what aspects of the lab's research interest you
+
+</br>
+
+__General guidelines for prospective students__:
+We expect prospective students to have consulted the general information provided at the Biology Graduate program webpage prior to contacting me.  Students in the Quantitative Ecology Lab gain valuable experience in quantitative methods, data management / analysis, `R` usage, and `R` package development.  These skills and experiences are aimed at helping our students find full time employment and / or further their academic careers.
+
+</br>
+
+Prospective students are encouraged to seek their own sources of external funding (e.g. NSERC), and to be competitive for internal grants available at UBC. 
+
+</br>
+
+General information about graduate studies at the Okanagan campus and in biology:
+
+[UBC Okanagan Biology graduate program](https://biology.ok.ubc.ca/graduate/biology/)
+
+[Graduate School at UBC Okanagan](https://gradstudies.ok.ubc.ca)

@@ -1,0 +1,12 @@
+name: "Lab Website"
+
+
+output_dir: "."
+output:
+  html_document:
+    css: website.css
+    fig_caption: yes
+    highlight: textmate
+    theme: flatly
+    includes:
+      after_body: footer.html
