@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <img src="Images/Lab_Logo_Trans.png" alt="drawing" height="350"/>
 </br>
 </br>
-The Quantitative Ecology Lab is focused on protecting vulnerable species both locally and around the world. We use data driven approaches and cutting-edge statistics </br>
+The Quantitative Ecology Lab is focused on protecting vulnerable species. We use data driven approaches and cutting-edge statistics </br>
 to ensure that the evidence used to support evidence based conservation is both accurate and reliable.
 </br>
 </br>
@@ -71,7 +71,7 @@ We're currently in the process of building a new lab at the University of Britis
 
 <a id="RESEARCH"></a> </br>
 
-<img src="Images/Release.png" alt="drawing" />
+<img src="Images/Trees.png" alt="drawing" width="100%" />
 
 <center> <h2>RESEARCH</h2> </center>
 </br>
@@ -90,7 +90,7 @@ Technological advances are transforming ecology as a field. Ecologists are now i
 
 ## Macro-ecology and Global Conservation
 
-The Qunatitative Ecology lab has established an international team, comprised of >80 of the world’s leading movement ecologists. Through this network of specialists, we have built one of the largest animal tracking dataset ever assembled, consisting of 1300 individuals representing 76 mammalian and avian species. With the average, all-in cost of tracking an animal being [∼$9,500](https://doi.org/10.1071/WR10211), this dataset can be valued at >$11 million. Collectively this unprecedented dataset, and broad pool of expert knowledge make our team uniquely positioned to support global conservation efforts. Our lab uses these data to answer questions about the evolutionary history and function of key aspects of animal movement. We then use these higher level findings to conextualise species' responses to human induced rapid environmental change (HIREC), and provide actionable findings for species conservation.
+The Quantitative Ecology lab has established an international team, comprised of >80 of the world’s leading movement ecologists. Through this network of specialists, we have built one of the largest animal tracking dataset ever assembled, consisting of 1300 individuals representing 76 mammalian and avian species. With the average, all-in cost of tracking an animal being [∼$9,500](https://doi.org/10.1071/WR10211), this dataset can be valued at >$11 million. Collectively this unprecedented dataset, and broad pool of expert knowledge make our team uniquely positioned to support global conservation efforts. Our lab uses these data to answer questions about the evolutionary history and function of key aspects of animal movement. We then use these higher level findings to conextualise species' responses to human induced rapid environmental change (HIREC), and provide actionable findings for species conservation.
 </br>
 </br>
 
@@ -101,7 +101,7 @@ The Qunatitative Ecology lab has established an international team, comprised of
 
 <a id="PUBLICATIONS"></a> </br>
 
-<img src="Images/heatmap.png" alt="drawing" height="100" width="2000" />
+<img src="Images/Road.png" alt="drawing"  width="100%" />
 
 <center> <h2>PUBLICATIONS</h2> </center>
 </br>
@@ -186,7 +186,7 @@ The Qunatitative Ecology lab has established an international team, comprised of
 
 <a id="NEWS"></a> </br>
 <center>
-<img src="Images/Road.png" alt="drawing"  width="100%" />
+<img src="Images/heatmap.png" alt="drawing" height="100" width="2000" />
 </center>
 
 <center> <h2>NEWS</h2> </center>
@@ -195,20 +195,6 @@ The Qunatitative Ecology lab has established an international team, comprised of
 #### 2021
 
 No News.
-
-
-<a id="FUNDING"></a> </br>
-
-<img src="Images/Trees.png" alt="drawing" width="100%" />
-
-<center> <h2>FUNDING</h2> </center>
-</br>
-
-| ![](Images/UBC.png) | ![](Images/SCBI.png) | ![](Images/NSERC.png) |
-|---|---|---|
-
-
-</br>
 
 
 
@@ -236,3 +222,25 @@ General information about graduate studies at the Okanagan campus and in biology
 [UBC Okanagan Biology graduate program](https://biology.ok.ubc.ca/graduate/biology/)
 
 [Graduate School at UBC Okanagan](https://gradstudies.ok.ubc.ca)
+
+
+
+
+<a id="FUNDING"></a> </br>
+
+<center> <h2>FUNDING & PARTNERS</h2> </center>
+
+
+<header>
+<div class="wrap">
+</br>
+</br>
+</br>
+</br>
+
+<center>
+<img src="Images/Funding_Partners2.png" alt="drawing" width="30%"/>
+</center>
+
+</div>
+</header>
