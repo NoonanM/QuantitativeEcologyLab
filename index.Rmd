@@ -19,11 +19,11 @@ knitr::opts_chunk$set(echo = TRUE)
 </br>
 
 <center>
-<img src="Images/Lab_Logo_Trans.png" alt="drawing" height="350"/>
+<img src="Images/Lab_Logo_Trans.png" alt="drawing" width="35%"/>
 </br>
 </br>
 The Quantitative Ecology Lab is focused on protecting vulnerable species. We use data driven approaches and cutting-edge statistics </br>
-to ensure that the evidence used to support evidence based conservation is both accurate and reliable.
+to ensure that the _evidence_ used to support evidence based conservation is both accurate and reliable.
 </br>
 </br>
 </br>
@@ -46,7 +46,7 @@ to ensure that the evidence used to support evidence based conservation is both 
 <center> <h3>QUANTITATIVE ECOLOGY LAB HEAD</h3> </center>
 
 <center>
-<img src="Images/MikeN.png" alt="drawing" height="200"/>
+<img src="Images/MikeN.png" alt="drawing" width="20%"/>
 
 
 Dr. Michael Noonan |
@@ -95,7 +95,7 @@ The Quantitative Ecology lab has established an international team, comprised of
 </br>
 
 <center>
-<img src="Images/Collaboration_Map_Full.png" alt="drawing" height="350"/>
+<img src="Images/Collaboration_Map_Full.png" alt="drawing" width="90%"/>
 </center>
 
 
@@ -186,7 +186,7 @@ The Quantitative Ecology lab has established an international team, comprised of
 
 <a id="NEWS"></a> </br>
 <center>
-<img src="Images/heatmap.png" alt="drawing" height="100" width="2000" />
+<img src="Images/heatmap.png" alt="drawing" width="100%" />
 </center>
 
 <center> <h2>NEWS</h2> </center>
