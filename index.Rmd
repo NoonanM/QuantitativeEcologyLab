@@ -24,8 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 </br>
 
 <div id="full">
-The Quantitative Ecology Lab is focused on protecting vulnerable species. We use data driven approaches and cutting-edge statistics </br>
-to ensure that the _evidence_ used to support evidence based conservation is both accurate and reliable.
+The Quantitative Ecology Lab is focused on protecting vulnerable species. We use data driven approaches and cutting-edge statistics to ensure that the _evidence_ used to support evidence based conservation is both accurate and reliable.
 </div>
         
 </br>
