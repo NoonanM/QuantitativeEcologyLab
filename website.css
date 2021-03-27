@@ -154,3 +154,11 @@ header, .full-width {
   margin: 0 auto;
   display: block;
 }
+
+
+.full-width-bar {
+  margin-bottom: -9%;
+  margin-left: -100%;
+  margin-right: -100%;
+  background: #ccc;
+}

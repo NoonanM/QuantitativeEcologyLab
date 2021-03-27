@@ -229,15 +229,14 @@ General information about graduate studies at the Okanagan campus and in biology
 
 
 
-<header>
-<div class="wrap">
+  
+
+
 <center> <h2>FUNDING & PARTNERS</h2> </center>
 </br>
-</br>
 
+<div class="full-width">
 <center>
-<img src="Images/Funding_Partners2.png" alt="drawing" width="30%"/>
+<img src="Images/Funding_Partners2.png" alt="drawing" width="30%" style="margin-top:2%;"/>
 </center>
-
 </div>
-</header>
