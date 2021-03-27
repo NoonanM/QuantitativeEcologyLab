@@ -220,23 +220,19 @@ General information about graduate studies at the Okanagan campus and in biology
 [UBC Okanagan Biology graduate program](https://biology.ok.ubc.ca/graduate/biology/)
 
 [Graduate School at UBC Okanagan](https://gradstudies.ok.ubc.ca)
-
-
-
+</br>
+&nbsp;
 
 <a id="FUNDING"></a> </br>
 
-
-
-
-  
-
-
 <center> <h2>FUNDING & PARTNERS</h2> </center>
 </br>
+&nbsp;
 
 <div class="full-width">
+
+
 <center>
-<img src="Images/Funding_Partners2.png" alt="drawing" width="30%" style="margin-top:2%;"/>
+<img src="Images/Funding_Partners2.png" alt="drawing" width="30%" style="margin-top:3%;"/>
 </center>
 </div>
