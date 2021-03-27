@@ -13,13 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <header>
 <div class="wrap">
-</br>
-</br>
-</br>
-</br>
-
 <center>
-<img src="Images/Lab_Logo_Trans.png" alt="drawing" width="35%"/>
+<img src="Images/Lab_Logo_Trans.png" alt="drawing" width="35%" style="margin-top:2%;"/>
 </br>
 </br>
 
