@@ -22,8 +22,12 @@ knitr::opts_chunk$set(echo = TRUE)
 <img src="Images/Lab_Logo_Trans.png" alt="drawing" width="35%"/>
 </br>
 </br>
+
+<div id="full">
 The Quantitative Ecology Lab is focused on protecting vulnerable species. We use data driven approaches and cutting-edge statistics </br>
 to ensure that the _evidence_ used to support evidence based conservation is both accurate and reliable.
+</div>
+        
 </br>
 </br>
 </br>
@@ -228,13 +232,12 @@ General information about graduate studies at the Okanagan campus and in biology
 
 <a id="FUNDING"></a> </br>
 
-<center> <h2>FUNDING & PARTNERS</h2> </center>
+
 
 
 <header>
 <div class="wrap">
-</br>
-</br>
+<center> <h2>FUNDING & PARTNERS</h2> </center>
 </br>
 </br>
 

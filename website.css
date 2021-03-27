@@ -148,3 +148,9 @@ header, .full-width {
   width: 300%;
   background: #ccc;
 }
+
+#full {
+  width: 80%;
+  margin: 0 auto;
+  display: block;
+}
