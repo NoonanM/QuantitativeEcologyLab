@@ -8,11 +8,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <script src="https://kit.fontawesome.com/e77fcc4fb5.js" crossorigin="anonymous"></script>
 
-
-<a id="HOME"></a> </br>
-
 <header>
 <div class="wrap">
+<a id="HOME"></a> </br>
+
 <center>
 <img src="Images/Lab_Logo_Trans.png" alt="drawing" width="35%" style="margin-top:5%;"/>
 </br>
