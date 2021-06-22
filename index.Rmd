@@ -110,7 +110,7 @@ The Quantitative Ecology lab has established an international team, comprised of
 #### 2021
 
 
-* __Noonan MJ__...(11 other authors)..., & Calabrese JM. Estimating encounter location distributions from animal tracking data. Methods in Ecology and Evolution, Accepted. DOI: https://doi.org/10.1101/2020.08.24.261628.
+* __Noonan MJ__...(11 other authors)..., & Calabrese JM. Estimating encounter location distributions from animal tracking data. Methods in Ecology and Evolution, 00:1–16. DOI:  https://doi.org/10.1111/2041-210X.13597.
 
 * Calabrese JM, Fleming CH, __Noonan MJ__, & Dong X. Point-and-click AKDE home range estimation with ctmmweb Wildlife Society Bulletin, in press DOI: https://doi.org/10.1002/wsb.1154.
 
