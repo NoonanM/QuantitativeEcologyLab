@@ -191,7 +191,7 @@ The Quantitative Ecology lab has established an international team, comprised of
 
 #### 2021
 
-No News.
+* The quantitative Ecology Lab has been awarded an [NSERC Discovery Grant](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/ResearchGrants-SubventionsDeRecherche/ResultsGSCDetail-ResultatsCSSDetails_eng.asp?Year=2021&GSC=1503) to support the lab's work over the next 5 years.
 
 
 
@@ -200,6 +200,8 @@ No News.
 <img src="Images/okanagan_campus.jpg" alt="drawing" width="100%" />
 
 <center> <h2>OPPORTUNITIES</h2> </center>
+
+The quantitiative ecology lab is currently recruiting a PhD student to conduct research on the impacts of Human Induced Rapid Environmental Change (HIREC) on animal movement. Application deadline is August 31, 2021. More details provided <a href="Files/Anthro_Movement.pdf" target="_blank">here.</a>
 
 If you're interested in joining the Quantitative Ecology Lab, you are welcome to email us your CV, unofficial transcripts, a brief blurb about yourself and your interests, and what aspects of the lab's research interest you
 
